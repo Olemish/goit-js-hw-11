@@ -8,7 +8,7 @@ function requestHttp(moviName, page) {
             orientation: "horizontal",
             safesearch: "true",
             page:page,
-            per_page: 20
+            per_page: 40
         }
     })
       
